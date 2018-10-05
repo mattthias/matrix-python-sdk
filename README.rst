@@ -4,8 +4,8 @@ Matrix Client SDK for Python
 .. image:: https://img.shields.io/pypi/v/matrix-client.svg?maxAge=600
   :target: https://pypi.python.org/pypi/matrix-client
   :alt: Latest Version
-.. image:: https://travis-ci.org/matrix-org/matrix-python-sdk.svg?branch=master
-  :target: https://travis-ci.org/matrix-org/matrix-python-sdk
+.. image:: https://travis-ci.org/mattthias/matrix-python-sdk.svg?branch=master_build
+  :target: https://travis-ci.org/mattthias/matrix-python-sdk
   :alt: Travis-CI Results
 .. image:: https://coveralls.io/repos/github/matrix-org/matrix-python-sdk/badge.svg?branch=master
   :target: https://coveralls.io/github/matrix-org/matrix-python-sdk?branch=master
